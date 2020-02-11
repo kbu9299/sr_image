@@ -1,0 +1,13 @@
+tensorflow
+tensorboardX
+torch
+torchvision
+ipython
+jupyter
+matplotlib
+pandas
+seaborn
+scipy
+scikit-learn
+tqdm
+scikit-image
