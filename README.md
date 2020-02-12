@@ -55,5 +55,5 @@ python src/generate_submission.py --config=config/config.json --checkpoint_file=
 
 | Name  | Configuration | Link | GPU Memory for training |
 | ------------- | ------------- |------------- |---| 
-| pretrained_batch_6_8  | batch size:6, seq len: 8  | [Download](https://drive.google.com/file/d/1viRJW33LwickTLqNI1aT6rC-nFZUlU0V/view?usp=sharing)| 8GB 
-| pretrained_batch_8_8 | batch size:8, seq len: 8  | [Download](https://drive.google.com/file/d/1Rs4jjV1TMeokTQDwB4yuVUWOHFq2WpCR/view?usp=sharing)  | 11GB
+| pretrained_batch_6_8  | batch size:6, seq len: 8, 300 epochs  | [Download](https://drive.google.com/file/d/1viRJW33LwickTLqNI1aT6rC-nFZUlU0V/view?usp=sharing)| 8GB (~ 7hours) |
+| pretrained_batch_8_8 | batch size:8, seq len: 8, 300 epochs  | [Download](https://drive.google.com/file/d/1Rs4jjV1TMeokTQDwB4yuVUWOHFq2WpCR/view?usp=sharing)  | 11GB |
